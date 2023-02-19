@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klein528
+- 👋 Hi, I’m Ardian Salihu
 - 👀 I’m interested in coding (BIGTIME)
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on noone (for now)
