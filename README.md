@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardian Salihu</h1>
 <h3 align="center">A passionate Front-End developer from Germany</h3>
+<img https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klein528&label=Profile%20views&color=0e75b6&style=flat" alt="klein528" /> </p>
 
