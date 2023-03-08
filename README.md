@@ -1,4 +1,5 @@
-![logo]
+![github-header-image](https://user-images.githubusercontent.com/88459146/223865847-2fc02668-d2fc-44be-aab4-993e529796f1.png)
+
 <h1 align="center">Hi 👋, I'm Ardian Salihu</h1>
 <h3 align="center">A passionate Front-End developer from Germany</h3>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding" width="400" align="right">
